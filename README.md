@@ -36,28 +36,27 @@ Comfortable working across different layers of the stack — from low-level C/C+
 
 ```yaml
 Approach:
-  - Build systems, not scripts
-  - Prefer scalable architecture over quick hacks
-  - Profile before optimizing
-  - Design with separation of concerns
-  - Keep gameplay logic predictable and extensible
-  - Think in systems, not isolated features
+  - Build systems, not hacks
+  - Optimize when it matters
+  - Design for scalability
+  - Keep code predictable and maintainable
 ```
 
 ---
 
 ## 🚀 Tech Stack
 
-🧠 Core
-<img src="https://skillicons.dev/icons?i=cs,unity" />
-C# (Advanced)
-Unity (Gameplay Systems, AI, Tools, Architecture)
+### 🧠 Languages
 
-⚙️ Secondary Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts" />
 
-🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=html,scss,php,mysql" />
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,scss,js,ts,php" />
+
+### 🗄 Backend & DB
+
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### ⚙️ Tools & Other
 
@@ -66,14 +65,13 @@ Unity (Gameplay Systems, AI, Tools, Architecture)
 
 ---
 
-🎮 Game Development Focus
+## 🎮 Game Dev Stack
 
-*Unity Engine (2D / Systems / Tools Development)
-*AI & Navigation Systems (NavMesh / Behavior logic)
-*Gameplay Architecture Design
-*Procedural & Dynamic Systems
-*Performance Optimization & Profiling
-*Modular Game Framework Design
+* Unity (2D / Systems / Tools)
+* NavMesh & AI
+* Gameplay Architecture
+* Procedural Systems
+* Optimization
 
 ---
 
@@ -109,7 +107,9 @@ Unity (Gameplay Systems, AI, Tools, Architecture)
 
 ## 🐍 Contributions
 
-<img src="https://raw.githubusercontent.com/ZangetsuDY/ZangetsuDY/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZangetsuDY/ZangetsuDY/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
