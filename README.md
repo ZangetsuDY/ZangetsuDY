@@ -94,17 +94,27 @@ Core Loop:
 <tr>
 
 <!-- PROJECT CARD -->
-<td width="50%" align="center" style="background-color:#0d1117; padding:15px; border-radius:12px;">
+<a href="https://github.com/ZangetsuDY/Dragon-Scale">
 
+<table style="background:#0d1117; border-radius:12px; padding:15px;" align="center">
+<tr>
+<td align="center">
 
+<h3 style="color:#00fff7;">🎮 Dragon Scale</h3>
+
+<p style="color:#aaa;">
+Systems-driven Unity project with AI, gameplay systems and procedural mechanics.
+</p>
 
 <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_System-NavMesh_🧠-blueviolet?style=flat-square"/>
-
-<i>Systems-driven 2D game with AI, resource mechanics, and dynamic world interaction.</i>
+<img src="https://img.shields.io/badge/AI-NavMesh-blueviolet?style=flat-square"/>
 
 </td>
+</tr>
+</table>
+
+</a>
 
 <!-- SNAKE -->
 <td width="50%" align="center" style="background-color:#0d1117; padding:15px; border-radius:12px;">
