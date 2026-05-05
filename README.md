@@ -1,22 +1,3 @@
-<!-- NEON HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:ff00ff&height=200&section=header&text=SYSTEM%20ONLINE%20|%20MAX&fontSize=38&fontColor=00fff7&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2000&color=00FFF7&center=true&vCenter=true&lines=INITIALIZING+DEV+PROFILE...;UNITY+SYSTEMS+ENGINEER;C%23+ARCHITECT;NEURAL+GAMEPLAY+DESIGNER;PERFORMANCE+CORE+ACTIVE" />
-</p>
-
----
-
-## 🧠 // SYSTEM PROFILE
-
-```diff
-+ USER: MAX
-+ ROLE: GAME SYSTEMS ENGINEER
-+ STATUS: ACTIVE
-+ FOCUS: ARCHITECTURE / PERFORMANCE / AI SYSTEMS
-```
 # 👋 Hi, I'm Max
 
 <p align="left">
