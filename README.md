@@ -157,8 +157,7 @@
 
 <!-- Проекты с красивыми карточками -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> 
-  Featured Projects
+  ⚡ Dragon Scale
 </h2>
 
 <br/>
