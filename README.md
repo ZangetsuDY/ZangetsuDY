@@ -97,11 +97,8 @@ Approach:
 
 ## 🧩 Featured Projects
 
-* 🎮 **Your Game Name**
+* 🎮 **Dragon Scale**
   Systems-driven 2D game with AI, resource mechanics, and dynamic world interaction.
-
-* 🛠 **Tool / Framework**
-  Internal tool for improving workflow / performance / content pipeline.
 
 ---
 
