@@ -103,7 +103,7 @@ Core Loop:
 <h3 style="color:#00fff7;">🎮 Dragon Scale</h3>
 
 <p style="color:#aaa;">
-Systems-driven Unity project with AI, gameplay systems and procedural mechanics.
+Action roguelike with open world exploration, procedural dungeons, AI-driven enemies and deep RPG progression systems.
 </p>
 
 <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
