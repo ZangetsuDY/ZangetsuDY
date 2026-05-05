@@ -78,11 +78,11 @@ Approach:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZangetsuDY&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZangetsuDY&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@ Approach:
 ## 🔥 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZangetsuDY&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ Approach:
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/YOUR_USERNAME/ZangetsuDY/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
