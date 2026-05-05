@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=MAX%20GUSEV&height=200&section=header&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Maxim&height=200&section=header&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white"/>
 </p>
 
 <!-- Анимированная матрица-фон (опционально, если GitHub разрешит, работает как гифка) -->
