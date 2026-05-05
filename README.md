@@ -101,13 +101,9 @@ Core Loop:
        onerror="this.style.display='none'" />
 </a>
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_System-NavMesh_🧠-blueviolet?style=flat-square"/>
-
-<br/><br/>
 
 <i>Systems-driven 2D game with AI, resource mechanics, and dynamic world interaction.</i>
 
@@ -126,4 +122,4 @@ Core Loop:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- ===== FOOTER ===== --><h2 align="center"> <img src="https://media.giphy.com/media/QX7gHnq8r0XcQ/giphy.gif" width="30"> ESTABLISH SECURE LINK </h2><p align="center"> <i style="color:#00fff7;">Encrypted channels • Direct access • No restrictions</i> </p><p align="center"> <a href="https://t.me/Zang119"> <img src="https://img.shields.io/badge/TELEGRAM-NODE_01-00fff7?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:gusev.s.maksim@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-NODE_02-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=80&section=footer"/></div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=80&section=footer"/></div>
