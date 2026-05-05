@@ -18,30 +18,6 @@
 
 <!-- ===== END HEADER ===== -->
 
-<!-- Анимированная матрица-фон (опционально, если GitHub разрешит, работает как гифка) -->
-<!-- Можно заменить на любую свою гифку или статичный баннер -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU1cDZjOTFrMWd4bm1yenE1d3QybGF1dHFoMDBpZ3h0a3g0ZHRwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ZangetsuDY">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Systems+Architect;Gameplay+Engineer;AI+Designer;Clean+Code+Evangelist" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZangetsuDY&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <a href="https://t.me/Zang119">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:gusev.s.maksim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<br/>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
