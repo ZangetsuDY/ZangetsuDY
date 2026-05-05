@@ -36,27 +36,28 @@ Comfortable working across different layers of the stack — from low-level C/C+
 
 ```yaml
 Approach:
-  - Build systems, not hacks
-  - Optimize when it matters
-  - Design for scalability
-  - Keep code predictable and maintainable
+  - Build systems, not scripts
+  - Prefer scalable architecture over quick hacks
+  - Profile before optimizing
+  - Design with separation of concerns
+  - Keep gameplay logic predictable and extensible
+  - Think in systems, not isolated features
 ```
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧠 Languages
+🧠 Core
+<img src="https://skillicons.dev/icons?i=cs,unity" />
+C# (Advanced)
+Unity (Gameplay Systems, AI, Tools, Architecture)
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts" />
+⚙️ Secondary Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
 
-### 🌐 Web
-
-<img src="https://skillicons.dev/icons?i=html,scss,js,ts,php" />
-
-### 🗄 Backend & DB
-
-<img src="https://skillicons.dev/icons?i=mysql" />
+🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=html,scss,php,mysql" />
 
 ### ⚙️ Tools & Other
 
@@ -65,13 +66,14 @@ Approach:
 
 ---
 
-## 🎮 Game Dev Stack
+🎮 Game Development Focus
 
-* Unity (2D / Systems / Tools)
-* NavMesh & AI
-* Gameplay Architecture
-* Procedural Systems
-* Optimization
+*Unity Engine (2D / Systems / Tools Development)
+*AI & Navigation Systems (NavMesh / Behavior logic)
+*Gameplay Architecture Design
+*Procedural & Dynamic Systems
+*Performance Optimization & Profiling
+*Modular Game Framework Design
 
 ---
 
@@ -107,15 +109,13 @@ Approach:
 
 ## 🐍 Contributions
 
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/ZangetsuDY/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+<img src="https://raw.githubusercontent.com/ZangetsuDY/ZangetsuDY/output/github-contribution-grid-snake.svg" />
 
 ---
 
 ## 📫 Contact
 
 * Telegram: @Zang119
-* Email: [gusev.s.maksim@gmail.com](gusev.s.maksim@gmail.com)
+* Email: [gusev.s.maksim@gmail.com](mailto:gusev.s.maksim@gmail.com)
 
 ---
