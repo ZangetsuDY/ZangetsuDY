@@ -96,10 +96,7 @@ Core Loop:
 <!-- PROJECT CARD -->
 <td width="50%" align="center" style="background-color:#0d1117; padding:15px; border-radius:12px;">
 
-<a href="https://github.com/ZangetsuDY/Dragon-Scale">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZangetsuDY&repo=Dragon-Scale&theme=tokyonight&hide_border=true&cache_seconds=1800"
-       onerror="this.style.display='none'" />
-</a>
+
 
 <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
