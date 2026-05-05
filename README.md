@@ -1,3 +1,51 @@
+<!-- ===== CYBERPUNK HEADER v2 (CLEAN GRID) ===== -->
+
+<div align="center">
+
+<!-- TOP NAME BLOCK (без пустоты) -->
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=MAXIM%20//%20GAME%20DEV&fontSize=40&fontColor=00fff7&animation=fadeIn&fontAlignY=35"/>
+
+</td>
+</tr>
+</table>
+
+<!-- STATUS LINE (в одну плотную строку) -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FFF7&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;UNITY+ENGINEER;C%23+ARCHITECT;PERFORMANCE+FOCUSED+DEVELOPER" />
+</p>
+
+<!-- SINGLE CONTROL PANEL (вместо разрозненных блоков) -->
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00fff7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROLE-GAME_DEV-302b63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SYSTEMS-0f0c29?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+<!-- HERO IMAGE (с рамкой через фон-таблицу) -->
+<table align="center" width="100%">
+<tr>
+<td align="center" style="background-color:#0d1117; border-radius:12px; padding:10px;">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l2a3V0eHk5d3V1b3V0cGJ6eWZ1b2V2a2V3bWQ3dXh1bW9sYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPtjElfqwMOTbH2/giphy.gif" width="420"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ===== END HEADER ===== -->
+
 <!-- ===== DENSE CYBERPUNK SYSTEM CORE ===== -->
 
 <div align="center">
