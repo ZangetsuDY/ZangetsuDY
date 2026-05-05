@@ -156,17 +156,13 @@
 </p>
 
 <!-- Проекты с красивыми карточками -->
-<h2 align="center">
-  ⚡ Dragon Scale
-</h2>
+<h3 align="center">🧩 Featured Project</h3>
 
-<br/>
-
-<a href="https://github.com/ZangetsuDY/Dragon-Scale">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZangetsuDY&repo=Dragon-Scale&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" />
-  </p>
-</a>
+<p align="center">
+  <a href="https://github.com/ZangetsuDY/Dragon-Scale">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZangetsuDY&repo=Dragon-Scale&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
