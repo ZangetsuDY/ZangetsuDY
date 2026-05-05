@@ -48,7 +48,7 @@ Approach:
 
 ### 🧠 Languages
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts" />
 
 ### 🌐 Web
 
