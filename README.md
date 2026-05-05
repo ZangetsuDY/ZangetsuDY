@@ -195,11 +195,43 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Футер -->
+<!-- ===== SECURE CHANNELS ===== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=header"/>
+</p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QX7gHnq8r0XcQ/giphy.gif" width="30">
+  SECURE COMMUNICATION CHANNELS
+</h2>
+
+<p align="center">
+  <i style="color:#00fff7;">Encrypted links • Direct access • No firewall restrictions</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://t.me/Zang119">
+    <img src="https://img.shields.io/badge/TELEGRAM-ACCESS_NODE-00fff7?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Epic!;Game+Dev+%7C+Systems+%7C+Code" alt="Typing SVG" />
+  <a href="mailto:gusev.s.maksim@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-DIRECT_LINK-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZtY3J0Z3V6bWZ3a2Z1Z3V6c3R3d2p3b2V6dXQ0b3R5d3F3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" width="400"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer"/>
 </p>
