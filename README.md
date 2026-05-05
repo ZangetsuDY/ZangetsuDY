@@ -160,7 +160,7 @@
 
 <p align="center">
   <a href="https://github.com/ZangetsuDY/Dragon-Scale">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZangetsuDY&repo=Dragon-Scale&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/PROJECT-Dragon_Scale-00fff7?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
 </p>
 
