@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm Max
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&lines=Game+Developer;Systems+Designer;Unity+%2F+C%23+Specialist;Performance+%26+Architecture+Focused" />
@@ -115,7 +115,7 @@ Approach:
 
 ## 📫 Contact
 
-* Telegram: @yourtag
-* Email: [your@email.com](mailto:your@email.com)
+* Telegram: @Zang119
+* Email: [gusev.s.maksim@gmail.com](gusev.s.maksim@gmail.com)
 
 ---
