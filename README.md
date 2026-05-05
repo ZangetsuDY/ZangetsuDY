@@ -1,7 +1,7 @@
 <!-- ===== CYBERPUNK SYSTEM HEADER ===== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=MAXIM%20//%20SYSTEM%20ENGINEER&fontSize=38&fontColor=00fff7&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=MAXIM%20//%20Game.%20Dev&fontSize=38&fontColor=00fff7&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
