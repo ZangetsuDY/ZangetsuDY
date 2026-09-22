@@ -82,7 +82,39 @@ Core Loop:
   - Memory & Performance Profiling
 ```
 </td> </tr> </table><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- ===== STATS & ACTIVITY ===== --><h2 align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> LIVE SYSTEM METRICS </h2><p align="center"> <a href="https://github.com/ZangetsuDY"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZangetsuDY&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZangetsuDY&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866"/> </a> </p><p align="center"> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZangetsuDY&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" /> </p><p align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZangetsuDY&custom_title=NEURAL%20ACTIVITY%20GRID&bg_color=0D1117&color=58A6FF&line=3FB950&point=F8D866&area_color=58A6FF&title_color=FFFFFF&area=true&hide_border=true&radius=8" /> </p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ===== STATS & ACTIVITY ===== -->
+
+<!-- ===== STATS & ACTIVITY ===== -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"
+       width="30px"
+       alt="Git"/>
+  LIVE SYSTEM METRICS
+</h2>
+
+<p align="center">
+  <a href="https://github.com/ZangetsuDY">
+
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api?username=ZangetsuDY&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866"/>
+
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZangetsuDY&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866"/>
+
+  </a>
+</p>
+
+<p align="center">
+  <img width="90%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ZangetsuDY&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF"/>
+</p>
+
+<p align="center">
+  <img width="90%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=ZangetsuDY&custom_title=NEURAL%20ACTIVITY%20GRID&bg_color=0D1117&color=58A6FF&line=3FB950&point=F8D866&area_color=58A6FF&title_color=FFFFFF&area=true&hide_border=true&radius=8"/>
+</p>
+
 <!-- ===== PROJECT & SNAKE ===== -->
 
 <h3 align="center">
